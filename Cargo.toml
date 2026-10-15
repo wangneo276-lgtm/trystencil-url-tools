@@ -1,0 +1,15 @@
+[package]
+name = "trystencil-url-tools"
+version = "0.1.0"
+edition = "2021"
+description = "Offline URL builder for TryStencil tattoo generator, try-on, stencil, and idea pages. Not an official SDK."
+license = "MIT"
+homepage = "https://trystencil.org/"
+repository = "https://github.com/bbwdadfg/trystencil-url-tools"
+readme = "README.md"
+keywords = ["tattoo", "stencil", "url-builder"]
+include = ["src/**", "tests/**", "README.md", "LICENSE", "Cargo.toml"]
+
+[lib]
+name = "trystencil_url_tools"
+path = "src/lib.rs"

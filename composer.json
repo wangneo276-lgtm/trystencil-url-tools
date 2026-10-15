@@ -1,0 +1,20 @@
+{
+  "name": "bbwdadfg/trystencil-url-tools",
+  "description": "Offline URL builder for TryStencil tattoo generator, try-on, stencil, and idea pages. Not an official SDK.",
+  "type": "library",
+  "license": [
+    "MIT"
+  ],
+  "homepage": "https://trystencil.org/",
+  "support": {
+    "source": "https://github.com/bbwdadfg/trystencil-url-tools"
+  },
+  "autoload": {
+    "psr-4": {
+      "TrystencilUrlTools\\": "php/src/TrystencilUrlTools/"
+    }
+  },
+  "require": {
+    "php": ">=8.1"
+  }
+}
