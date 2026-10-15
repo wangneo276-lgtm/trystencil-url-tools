@@ -1,8 +1,14 @@
 {
-  "name": "@bbwdadfg/trystencil-url-tools",
+  "name": "@wangneo276-lgtm/trystencil-url-tools",
   "version": "0.1.1",
   "exports": "./mod.ts",
   "license": "MIT",
   "homepage": "https://trystencil.org/",
-  "repository": "https://github.com/wangneo276-lgtm/trystencil-url-tools"
+  "repository": "https://github.com/wangneo276-lgtm/trystencil-url-tools",
+  "publish": {
+    "include": [
+      "jsr.json",
+      "mod.ts"
+    ]
+  }
 }
