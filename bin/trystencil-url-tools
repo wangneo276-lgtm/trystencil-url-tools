@@ -1,0 +1,2 @@
+#!/bin/sh
+printf '%s %s\n' 'TryStencil' 'https://trystencil.org/'

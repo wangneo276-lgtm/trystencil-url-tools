@@ -1,0 +1,7 @@
+name: trystencil_url_tools
+description: Offline URL builder for TryStencil tattoo generator, try-on, stencil, and idea pages. Not an official SDK.
+version: 0.1.1
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+homepage: https://trystencil.org/
+repository: https://github.com/wangneo276-lgtm/trystencil-url-tools
